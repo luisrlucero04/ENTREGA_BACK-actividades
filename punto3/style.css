@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+
+.todo {
+    width: 80%;
+    height: 80%;
+    margin: 10%;
+    background-color: antiquewhite;
+}
+
+#formulario h1{
+    text-align: center;
+    padding: 30px;
+}
+
+#formulario form {
+    padding: 30px;
+}
+

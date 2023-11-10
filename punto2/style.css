@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+.todo {
+    width: 80%;
+    height: 80%;
+    margin: 10%;
+    background-color: antiquewhite;
+}
+
+#formulario h1{
+    text-align: center;
+    padding: 30px;
+}
+
+#formulario form {
+    padding: 30px;
+}
+
+.resultado {
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    padding: 30px;
+    color: green;
+}
+
+.resultado h2 {
+    color: red;
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    padding: ;
+}
